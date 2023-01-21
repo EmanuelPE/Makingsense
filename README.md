@@ -20,4 +20,4 @@ mvn clean install test -DsuiteXmlFile=MakingSenseExam.xml
 ```
 
 ## Comments
-This a simple type how I can resolve the examen if you want I can build a method to do the things more easy and scalable because we don't need create a lot of objects for different type of filters for example and with only one method and can select different filters and inputs with some parameters
+This a simple type how I can resolve the examen. If you want, I can build a method to do the things more easy and scalable because we don't need create a lot of objects for different type of filters for example, with only one method I can select different filters and inputs with some parameters send in the execution.
