@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MakingSenseExam" parallel="false">
+
+	<test name="Mercado Libre Search for a car less than 2.000.000 and order by desc price">
+		<classes>
+			<class name="test.CodeChallengeTest"></class>
+		</classes>
+	</test>
+
+</suite> <!-- Suite -->
